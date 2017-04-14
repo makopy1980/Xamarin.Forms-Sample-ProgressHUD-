@@ -1,5 +1,4 @@
-﻿using System;
-using BigTed;
+﻿using BigTed;
 using ProgressHud;
 using Xamarin.Forms;
 

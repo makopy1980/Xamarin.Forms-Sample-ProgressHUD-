@@ -1,5 +1,4 @@
-﻿using System;
-using AndroidHUD;
+﻿using AndroidHUD;
 using ProgressHud;
 using Xamarin.Forms;
 

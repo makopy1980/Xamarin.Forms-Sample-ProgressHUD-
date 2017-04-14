@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ProgressHud
+﻿namespace ProgressHud
 {
     /// <summary>
     /// ProgressHud操作インタフェース
